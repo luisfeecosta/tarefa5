@@ -1,0 +1,4 @@
+
+interface MotoCustom {
+    void exibirMotoCustom();
+}

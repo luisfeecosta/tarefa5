@@ -1,0 +1,5 @@
+
+interface CaminhaoSimples {
+    void exibirCaminhaoSimples();
+}
+

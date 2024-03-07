@@ -1,0 +1,11 @@
+class FabricaYamaha implements FabricaDeMotos {
+    @Override
+    public MotoEsportiva criarMotoEsportiva() {
+        return new Cbr();
+    }
+
+    @Override
+    public MotoCustom criarMotoCustom() {
+        return new Shadow();
+    }
+}

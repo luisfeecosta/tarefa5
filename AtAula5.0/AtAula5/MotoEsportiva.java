@@ -1,0 +1,4 @@
+
+interface MotoEsportiva {
+    void exibirMotoEsportiva();
+}
